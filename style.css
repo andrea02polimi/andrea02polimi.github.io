@@ -56,6 +56,7 @@ h1{max-width:690px;margin-bottom:18px;font-size:clamp(2.8rem,6.5vw,5.4rem);lette
 .timeline-item p{margin:0;color:var(--muted);font-size:.86rem;line-height:1.55}
 .skills-strip{display:flex;flex-wrap:wrap;gap:8px;margin-top:34px}
 .skills-strip span{padding:8px 13px;border:1px solid var(--line);border-radius:3px;color:#47546d;font-size:.78rem;font-weight:650}
+.language-note{margin:16px 0 0;color:var(--muted);font-size:.86rem}
 .contact-section{padding-block:85px;background:var(--ink);color:var(--white)}
 .contact-inner{display:flex;align-items:end;justify-content:space-between;gap:32px}
 .contact-inner h2{max-width:580px;margin-bottom:14px}
